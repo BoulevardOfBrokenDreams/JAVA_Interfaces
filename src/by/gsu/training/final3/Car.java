@@ -1,8 +1,8 @@
 package by.gsu.training.final3;
 
-public class Animal implements MakingSounds{
+public class Car implements MakingSounds{
     @Override
     public String makeSound() {
-        return "Ponch";
+        return "VROOM!";
     }
 }
